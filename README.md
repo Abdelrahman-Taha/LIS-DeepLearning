@@ -6,19 +6,3 @@ Employing large intelligent surfaces (LISs) is a promising solution for improvin
 This code package reproduces the results in the original article: Abdelrahman Taha, Muhammad Alrabeiah, and Ahmed Alkhateeb, “Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning,” arXiv e-prints, p. arXiv:1904.10136, Apr 2019. [Online]. Available: https://arxiv.org/abs/1904.10136
 # License and Referencing
 This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed below.
-
-@ARTICLE{2019arXiv190410136T,
-       author = {{Taha}, Abdelrahman and {Alrabeiah}, Muhammad and {Alkhateeb}, Ahmed},
-        title = "{Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Information Theory, Electrical Engineering and Systems Science - Signal Processing},
-         year = "2019",
-        month = "Apr",
-          eid = {arXiv:1904.10136},
-        pages = {arXiv:1904.10136},
-archivePrefix = {arXiv},
-       eprint = {1904.10136},
- primaryClass = {cs.IT},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190410136T},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
