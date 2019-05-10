@@ -9,6 +9,6 @@ The main script for generating Figure 10, illustrated in the original article, i
 One additional MATLAB function named "Main_fn.m" is called by the main script.
 The script adopts the publicly available parameterized DeepMIMO dataset published for deep learning applications in mmWave and massive MIMO systems. [Online]. Available: http://deepmimo.net/
 # License and Referencing
-This code package is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [Online]. Available: https://creativecommons.org/licenses/by-nc-sa/4.0/. 
+This code package is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [Online]. Available: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 If you in any way use this code for research that results in publications, please cite our original article listed above.
