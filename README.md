@@ -10,4 +10,4 @@ Employing large intelligent surfaces (LISs) is a promising solution for improvin
 The folder ... contains the 
 
 # License and Referencing
-This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed below.
+This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
