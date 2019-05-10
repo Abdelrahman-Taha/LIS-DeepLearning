@@ -1,5 +1,5 @@
 # Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning
-This is a MATLAB code package related to the following paper: 
+This is a MATLAB code package related to the following article: 
 
 Abdelrahman Taha, Muhammad Alrabeiah, and Ahmed Alkhateeb, “Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning,” arXiv e-prints, p. arXiv:1904.10136, Apr 2019. [Online]. Available: https://arxiv.org/abs/1904.10136
 # Abstract of the Article
