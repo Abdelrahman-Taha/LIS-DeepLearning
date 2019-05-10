@@ -20,9 +20,11 @@
 % The DeepMIMO dataset is adopted.  
 % [Online]. Available: http://deepmimo.net/
 %
-% License: This code is licensed under the GPLv3 license. If you in any way
-% use this code for research that results in publications, please cite our
-% original article mentioned above.
+% License: This code is licensed under a Creative Commons 
+% Attribution-NonCommercial-ShareAlike 4.0 International License. 
+% [Online]. Available: https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+% If you in any way use this code for research that results in 
+% publications, please cite our original article mentioned above.
 
 %% System Model parameters
 
