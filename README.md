@@ -6,6 +6,7 @@ Employing large intelligent surfaces (LISs) is a promising solution for improvin
 # Code Package Content
 The main script for generating Figure 10, illustrated in the original article, is named "Fig10_generator.m". 
 One additional MATLAB function named "Main_fn.m" is called by the main script.
+
 The script adopts the publicly available parameterized [DeepMIMO dataset](http://deepmimo.net/) published for deep learning applications in mmWave and massive MIMO systems.
 # License and Referencing
 This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article listed above.
