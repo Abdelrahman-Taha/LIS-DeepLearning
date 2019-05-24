@@ -6,8 +6,13 @@ Employing large intelligent surfaces (LISs) is a promising solution for improvin
 # Code Package Content
 The main script for generating Figure 10, illustrated in the original article, is named "Fig10_generator.m". 
 One additional MATLAB function named "Main_fn.m" is called by the main script.
-
 ![Figure10](https://github.com/Abdelrahman-Taha/LIS-DeepLearning/blob/master/Figure10.png)
+**To reproduce the results, please follow these steps:**
+1. Download the code and add it to the "DeepMIMO" folder.
+2. Run the file named “Fig10_generator.m” in MATLAB and the script will sequentially execute the following tasks:
+    1. Generate the inputs and outputs of the deep learning model
+    2. Build, train, and test the deep learning model
+    3. Process the deep learning outputs and generate the performance results.
 
 The script adopts the publicly available parameterized [DeepMIMO dataset](http://deepmimo.net/) published for deep learning applications in mmWave and massive MIMO systems.
 # License and Referencing
