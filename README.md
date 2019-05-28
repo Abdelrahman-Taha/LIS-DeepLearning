@@ -17,5 +17,4 @@ The script adopts the publicly available parameterized [DeepMIMO dataset](http:/
     3. Process the deep learning outputs and generate the performance results.
 # License and Referencing
 This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
-
 > A. Taha, M. Alrabeiah, and A. Alkhateeb, “[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136),” arXiv e-prints, p. arXiv:1904.10136, Apr 2019.
