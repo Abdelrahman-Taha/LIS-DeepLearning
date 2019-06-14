@@ -32,9 +32,9 @@ BW = 100e6; % Bandwidth
 
 Ut_row = 850; % user Ut row number
 Ut_element = 90; % user Ut position from the row chosen above
-Ur_rows = [1000 1300]; % user Ur rows
+Ur_rows = [1000 1200]; % user Ur rows
 
-Validation_Size = 14300; % Validation dataset Size
+Validation_Size = 6200; % Validation dataset Size
 K = 512; % number of subcarriers
 miniBatchSize  = 500; % Size of the minibatch for the Deep Learning
 % Note: The axes of the antennas match the axes of the ray-tracing scenario
