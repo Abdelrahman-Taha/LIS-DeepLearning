@@ -94,7 +94,7 @@ disp([' Calculating for L = ' num2str(params.num_paths)]);
 
 % ------------------ DeepMIMO "Ut" Dataset Generation -----------------%
 params.active_user_first=Ut_row; 
-params.active_user_last=Ut_row+1;
+params.active_user_last=Ut_row;
 DeepMIMO_dataset=DeepMIMO_generator(params);
 Ht = single(DeepMIMO_dataset{1}.user{Ut_element}.channel);
 clear DeepMIMO_dataset
@@ -111,7 +111,7 @@ Delta_H_max = single(0);
 for pp = 1:1:numel(Ur_rows_grid)-1 % loop for Normalizing H
     clear DeepMIMO_dataset
     params.active_user_first=Ur_rows_grid(pp);
-    params.active_user_last=Ur_rows_grid(pp+1); 
+    params.active_user_last=Ur_rows_grid(pp+1)-1; 
     [DeepMIMO_dataset,params]=DeepMIMO_generator(params);
     for u=1:params.num_user
         Hr = single(conj(DeepMIMO_dataset{1}.user{u}.channel));                                
@@ -135,7 +135,7 @@ for pp = 1:1:numel(Ur_rows_grid)-1
     clear DeepMIMO_dataset 
     disp(['Starting received user access ' num2str(pp)]);
     params.active_user_first=Ur_rows_grid(pp);
-    params.active_user_last=Ur_rows_grid(pp+1);
+    params.active_user_last=Ur_rows_grid(pp+1)-1;
     [DeepMIMO_dataset,params]=DeepMIMO_generator(params);
     %% Construct Deep Learning inputs
     u_step=100;
