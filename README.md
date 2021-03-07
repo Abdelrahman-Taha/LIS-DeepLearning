@@ -6,7 +6,7 @@ Employing large intelligent surfaces (LISs) is a promising solution for improvin
 # Code Package Content
 The main script for generating Figure 12 as shown below, illustrated in the [original article](https://ieeexplore.ieee.org/document/9370097), is named `Fig12_generator.m`. 
 One additional MATLAB function named `Main_fn.m` is called by the main script. Another additional MATLAB function named `UPA_codebook_generator.m` is called by the function `Main_fn.m`.
-![Figure12](https://github.com/Abdelrahman-Taha/LIS-DeepLearning/blob/master/Figure10.png)
+![Figure12](https://github.com/Abdelrahman-Taha/LIS-DeepLearning/blob/master/Figure12.png)
 The script adopts the publicly available parameterized [DeepMIMO dataset](http://deepmimo.net/ray_tracing.html?i=1) published for deep learning applications in mmWave and massive MIMO systems. The 'O1_28' scenario is adopted for this figure.
 
 **To reproduce the results, please follow these steps:**
