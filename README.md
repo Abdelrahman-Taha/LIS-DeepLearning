@@ -17,6 +17,8 @@ The script adopts the publicly available parameterized [DeepMIMO dataset](http:/
     1. Generate the inputs and outputs of the deep learning model.
     2. Build, train, and test the deep learning model.
     3. Process the deep learning outputs and generate the performance results.
+ 
+Please check the following [demonstration video](https://user-images.githubusercontent.com/50499003/110227413-92159380-7eb5-11eb-9a4e-d7cc5cc7e0aa.mp4) to reproduce the results.
 
 If you have any questions regarding the code and used dataset, please contact [Abdelrahman Taha](https://sites.google.com/view/abdelrahmantaha).
 
