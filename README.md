@@ -21,4 +21,4 @@ If you have any questions regarding the code and used dataset, please contact [A
 
 # License and Referencing
 This code package is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you in any way use this code for research that results in publications, please cite our original article:
-> A. Taha, M. Alrabeiah, and A. Alkhateeb, “[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://arxiv.org/abs/1904.10136),” arXiv e-prints, p. arXiv:1904.10136, Apr 2019.
+> A. Taha, M. Alrabeiah, and A. Alkhateeb, “[Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning](https://ieeexplore.ieee.org/document/9370097),” in IEEE Access, 2021, doi: 10.1109/ACCESS.2021.3064073.
