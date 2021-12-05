@@ -20,6 +20,7 @@ The script adopts the first version of the publicly available parameterized [Dee
     3. Process the deep learning outputs and generate the performance results.
  
 Please check the following [demonstration video](https://user-images.githubusercontent.com/50499003/110227413-92159380-7eb5-11eb-9a4e-d7cc5cc7e0aa.mp4) to help in reproducing the results.
+Important note: the video was recorded during the old design of the DeepMIMO website. The DeepMIMOv1 dataset generation files are now available instead on [this link](https://deepmimo.net/versions/v1/) and the source data of the 'O1_28' scenario is now available instead on [this link](https://deepmimo.net/scenarios/o1-scenario/).
 
 If you have any questions regarding the code and used dataset, please contact [Abdelrahman Taha](https://sites.google.com/view/abdelrahmantaha).
 
