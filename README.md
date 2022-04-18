@@ -19,7 +19,8 @@ The script adopts the first version of the publicly available parameterized [Dee
     2. Build, train, and test the deep learning model.
     3. Process the deep learning outputs and generate the performance results.
  
-Please check the following [demonstration video](https://user-images.githubusercontent.com/50499003/110227413-92159380-7eb5-11eb-9a4e-d7cc5cc7e0aa.mp4) to help in reproducing the results. The code was tested on MATLAB R2019a.
+Please check the following [demonstration video](https://user-images.githubusercontent.com/50499003/110227413-92159380-7eb5-11eb-9a4e-d7cc5cc7e0aa.mp4) to help in reproducing the results. 
+The code was tested on MATLAB R2019a.
 
 **Important note on the video:** The video was recorded during the first version of the DeepMIMO website. The DeepMIMO website has now changed. The DeepMIMOv1 dataset generation files are now available instead on [this link](https://deepmimo.net/versions/v1/) and the source data of the 'O1_28' scenario is now available instead on [this link](https://deepmimo.net/scenarios/o1-scenario/).
 
